@@ -26,6 +26,9 @@ This guide covers the steps to:
 - Pods on Kubernetes Dashboard
 <img width="1366" height="731" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/632eb347-6edc-4cd4-ae03-0e6f79efda2f" />
 
+<img width="1366" height="734" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/7a558e99-c4e2-48fb-9b45-73281aba4e95" />
+
+
 
 
 
